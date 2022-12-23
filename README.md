@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Javascript, React, Pyton**
 
-- 👯 I always aim for the most functional and applicable codes.
+- 💻 I always aim for the most functional and applicable codes.
  
-- 👨‍💻 I’m looking to collaborate on **interesting projects and startups**
+- 👨‍👯 I’m looking to collaborate on **interesting projects and startups**
 
 - 📫 How to reach me **funda.catalbas@gmail.com**
 
