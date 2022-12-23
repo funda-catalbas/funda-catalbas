@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=funda-catalbas&label=Profile%20views&color=0e75b6&style=flat" alt="funda-catalbas" /> </p>
 
-- 🔭 I’m currently working **open for work remotely**
+- 🔭 I’m currently working **remotely as a Freelancer**
 
 - 🌱 I’m currently learning **Javascript, React, Pyton**
 
-- 👯 I’m looking to collaborate on **interesting projects and startups**
+- 👯 I always aim for the most functional and applicable codes.
+ 
+- 👨‍💻 I’m looking to collaborate on **interesting projects and startups**
 
 - 📫 How to reach me **funda.catalbas@gmail.com**
 
