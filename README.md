@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github profile
+A passionate frontend developer from Turkey
 
-#A passionate frontend react developer from Turkey
 
 - 🔭 I’m currently open for work remotely
 - 🌱 I’m currently learning React and Pyton
