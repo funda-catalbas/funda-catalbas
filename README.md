@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 Welcome to my Github profile</h1>
 <h2 align="center">A passionate frontend developer from Turkey</h2>
-<img class="MMImage-Origin" src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif">
+<img max-width: 40%, class="MMImage-Origin" src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=funda-catalbas&label=Profile%20views&color=0e75b6&style=flat" alt="funda-catalbas" /> </p>
 
