@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Funda Çatalbaş. Welcome to my Github profile</h1>
+<h1 align="center">Hi 👋 Welcome to my Github profile</h1>
 <h2 align="center">A passionate frontend developer from Turkey</h2>
 <img class="MMImage-Origin" src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif">
 
