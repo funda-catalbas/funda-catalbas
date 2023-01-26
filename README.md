@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/fundatb](https://www.linkedin.com/in/funda-%C3%A7atalba%C5%9F)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="https://www.linkedin.com/in/funda-çatalbaş/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/funda-%C3%A7atalba%C5%9F" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" alt="https://www.linkedin.com/in/funda-çatalbaş/" height="30" width="40" /></a>
  <a href="https://twitter.com/fundatb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fundatb" height="30" width="40" /></a>
 <a href="https://codesandbox.com/funda.catalbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="funda.catalbas" height="30" width="40" /></a>
 <a href="https://fb.com/ci̇typlanner funda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ci̇typlanner funda" height="30" width="40" /></a>
